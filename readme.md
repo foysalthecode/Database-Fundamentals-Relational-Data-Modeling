@@ -1,6 +1,6 @@
 # DATA BASE
 
-Data base is a structured collection of related data
+> Data base is a structured collection of related data
 
 # FOREIGN KEY
 
@@ -21,4 +21,6 @@ Data base is a structured collection of related data
 
 > Realtionship cardinality is the rule that defines how many instance of one entity can be associated with instances of another entity in a database
 
+# Entity-Relationship (ER) DIAGRAM
 
+> ER Diagram is a diagram that shows entites,their attributes,and the relationships between them
